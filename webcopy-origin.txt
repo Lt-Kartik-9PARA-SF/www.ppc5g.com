@@ -1,0 +1,1052 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\ajax\libs\jqueryui\1.12.1\jquery-ui.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\npm\@popperjs\core@2.9.2\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\npm\bootstrap@5.0.2\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\npm\bootstrap@5.0.2\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\ui\1.12.1\themes\base\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\ui\1.12.1\themes\base\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_777620_256x240.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\ui\1.12.1\themes\base\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_777777_256x240.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\ui\1.12.1\themes\base\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_cc0000_256x240.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\ui\1.12.1\themes\base\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\ui\1.12.1\themes\base\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\ui\1.12.1\themes\base\jquery-ui.css
+Content Type: text/css
+
+Uri: https://www.ppc5g.com/
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\index.htm
+Content Type: text/html
+
+Uri: https://www.ppc5g.com/about-director.php
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\about-director.php.html
+Content Type: text/html
+
+Uri: https://www.ppc5g.com/about-us.php
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\about-us.php.html
+Content Type: text/html
+
+Uri: https://www.ppc5g.com/css/bootstrap-side-modals.css
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\css\bootstrap-side-modals.css
+Content Type: text/css
+
+Uri: https://www.ppc5g.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.ppc5g.com/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.ppc5g.com/css/style.css
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.ppc5g.com/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://www.ppc5g.com/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ppc5g.com/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ppc5g.com/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.ppc5g.com/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.ppc5g.com/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.ppc5g.com/images/africa.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\africa.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/agriculture.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\agriculture.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/app.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\app.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/australia-1.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\australia-1.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/automotive.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\automotive.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/ayurveda.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\ayurveda.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/beauty-products.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\beauty-products.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/beverages.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\beverages.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/bg-mobile.jpg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\bg-mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ppc5g.com/images/bg.jpg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ppc5g.com/images/bhutan.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\bhutan.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/brand/elementor.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\brand\elementor.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/brand/figma.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\brand\figma.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/brand/godaddy.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\brand\godaddy.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/brand/mailchimp.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\brand\mailchimp.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/brand/shopify.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\brand\shopify.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/brand/sitecore.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\brand\sitecore.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/brand/squarespace.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\brand\squarespace.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/brand/webflow.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\brand\webflow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/brand/wix.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\brand\wix.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/brand/wordpress.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\brand\wordpress.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/canada-1.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\canada-1.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/cements.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\cements.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/chemical-industries.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\chemical-industries.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/club-dining.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\club-dining.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/constraction.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\constraction.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/dentist.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\dentist.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/diagnostics.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\diagnostics.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/display.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\display.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/ecom-b2b.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\ecom-b2b.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/education.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\education.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/email.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\email.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/enquiry.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\enquiry.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/event.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\event.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/facebook-rating.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\facebook-rating.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/fashion.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\fashion.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/finance.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\finance.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/fmcg.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\fmcg.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/footwear.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\footwear.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/google-rating.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\google-rating.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/hospital.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\hospital.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/hospitality.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\hospitality.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/hypermarkets.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\hypermarkets.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/india-flag.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\india-flag.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/integration.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\integration.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/interior-design.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\interior-design.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/it-iot.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\it-iot.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/japan.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\japan.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/jewellery.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\jewellery.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/Justdail-rating.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\Justdail-rating.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/law.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\law.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/logistics.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\logistics.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/malaysia.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\malaysia.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/maleuser.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\maleuser.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/map.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\map.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/mca.jpeg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\mca.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ppc5g.com/images/media.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\media.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/ngo.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\ngo.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/office-main-gate.jpeg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\office-main-gate.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ppc5g.com/images/packaging.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\packaging.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/pan.jpg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\pan.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ppc5g.com/images/pharma.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\pharma.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/phone.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\phone.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/ppclogo.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\ppclogo.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/ppctop-middle.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\ppctop-middle.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/real-estate.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\real-estate.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/restaurants.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\restaurants.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/search.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\search.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/seo.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\seo.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/shopping.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\shopping.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/singapore-1.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\singapore-1.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/sports.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\sports.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/sri-lanka.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\sri-lanka.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/steel.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\steel.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/tan-number.jpg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\tan-number.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ppc5g.com/images/technology/acunetix.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\acunetix.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/adobe-commerce.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\adobe-commerce.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/aircrack-ng.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\aircrack-ng.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/amazon-documentdb.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\amazon-documentdb.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/amazon-dynamodb-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\amazon-dynamodb-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/amazon-machine-learning-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\amazon-machine-learning-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/amazon-rds-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\amazon-rds-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/amazon-redshift-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\amazon-redshift-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/amazon-s3.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\amazon-s3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/amazon-sagemaker.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\amazon-sagemaker.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/android-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\android-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/angular-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\angular-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/ansible.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\ansible.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/apache-hbase-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\apache-hbase-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/apache-jmeter.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\apache-jmeter.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/apache-kafka.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\apache-kafka.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/apache-mesos-logo-vertical.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\apache-mesos-logo-vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/apache-zookeper-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\apache-zookeper-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/appium.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\appium.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/aws-developer-tools.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\aws-developer-tools.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/aws-elasticache.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\aws-elasticache.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/aws.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\aws.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/azure-blob-storage.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\azure-blob-storage.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/azure-cosmos-db-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\azure-cosmos-db-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/azure-data-lake-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\azure-data-lake-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/azure-devops-logo-vertical.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\azure-devops-logo-vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/azure-full.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\azure-full.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/azure-machine-learning-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\azure-machine-learning-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/azure-sql-database-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\azure-sql-database-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/azure-synapse-analytics-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\azure-synapse-analytics-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/burpsuite.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\burpsuite.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/c-plus-plus.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\c-plus-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/c-plus-plus1.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\c-plus-plus1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/c-sharp-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\c-sharp-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/caffe-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\caffe-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/cassandra.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\cassandra.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/chef.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\chef.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/cloudflare.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\cloudflare.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/cordova-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\cordova-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/css.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\css.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/datadog-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\datadog-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/digital-ocean.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\digital-ocean.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/dirb-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\dirb-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/dot-net-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\dot-net-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/elasticsearch.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\elasticsearch.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/ember-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\ember-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/flutter-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\flutter-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/fmbt.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\fmbt.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/gensim-full.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\gensim-full.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/gitlab-ci-cd-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\gitlab-ci-cd-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/gitlab.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\gitlab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/go-logo-blue.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\go-logo-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/google-cloud-ai-platform.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\google-cloud-ai-platform.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/google-cloud-datastore-1.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\google-cloud-datastore-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/google-cloud-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\google-cloud-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/google-cloud-sql-1.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\google-cloud-sql-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/google-developer-tools.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\google-developer-tools.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/grafana-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\grafana-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/hadoop-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\hadoop-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/hive.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\hive.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/hp-quicktest-professional.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\hp-quicktest-professional.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/html.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\html.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/ios-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\ios-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/java-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\java-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/javascript-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\javascript-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/jenkins.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\jenkins.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/keras.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\keras.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/kubernetes-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\kubernetes-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/mahout-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\mahout-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/masscan.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\masscan.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/matlab.jpg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\matlab.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ppc5g.com/images/technology/metasploit-r7.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\metasploit-r7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/meteor.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\meteor.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/mongodb-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\mongodb-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/ms-dynamics-365.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\ms-dynamics-365.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/ms-sql.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\ms-sql.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/mxnet-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\mxnet-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/mysql.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\mysql.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/nagios-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\nagios-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/nessus.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\nessus.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/nmap.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\nmap.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/node-js.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\node-js.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/objective-c.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\objective-c.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/octave-full.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\octave-full.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/opencv-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\opencv-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/openshift-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\openshift-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/oracle.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\oracle.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/packer-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\packer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/php-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\php-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/postgresql-vertical-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\postgresql-vertical-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/postman.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\postman.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/power-bi-2020.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\power-bi-2020.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/prometheus-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\prometheus-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/protractor.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\protractor.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/puppet.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\puppet.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/pwa-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\pwa-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/python.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\python.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/qradar.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\qradar.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/qt.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\qt.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/rackspace-horizontal.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\rackspace-horizontal.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/ranorex.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\ranorex.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/react-js-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\react-js-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/react-native-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\react-native-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/r_logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\r_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/salesforce.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\salesforce.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/saltstack.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\saltstack.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/sap.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\sap.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/scikit-learn.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\scikit-learn.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/selenium.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\selenium.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/servicenow.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\servicenow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/sharepoint-logo-vertical.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\sharepoint-logo-vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/siege-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\siege-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/spacy_logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\spacy_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/spark-mllib-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\spark-mllib-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/spark.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\spark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/swift.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\swift.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/teamcity.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\teamcity.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/tensorflow-logo-vertical.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\tensorflow-logo-vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/terraform-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\terraform-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/teststack-white.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\teststack-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/theano.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\theano.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/torch.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\torch.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/unified-functional-testing.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\unified-functional-testing.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/vuejs-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\vuejs-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/wireshark.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\wireshark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/xamarin-logo-vertical.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\xamarin-logo-vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/xcuit.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\xcuit.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/xcuitest.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\xcuitest.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/zabbix-logo.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\zabbix-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/technology/zmap.svg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\technology\zmap.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ppc5g.com/images/topldgImg.jpg
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\topldgImg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ppc5g.com/images/topldgImg.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\topldgImg.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/travel.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\travel.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/uae.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\uae.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/usa.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\usa.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/user.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\user.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/userfemale.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\userfemale.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/usermale.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\usermale.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/userwomen-2.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\userwomen-2.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/images/video.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\video.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/video/ecommerce.mp4
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\video\ecommerce.mp4
+Content Type: video/mp4
+
+Uri: https://www.ppc5g.com/images/video/graphic.mp4
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\video\graphic.mp4
+Content Type: video/mp4
+
+Uri: https://www.ppc5g.com/images/video/hosting.mp4
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\video\hosting.mp4
+Content Type: video/mp4
+
+Uri: https://www.ppc5g.com/images/video/webdesign.mp4
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\video\webdesign.mp4
+Content Type: video/mp4
+
+Uri: https://www.ppc5g.com/images/visa-immigration.webp
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\visa-immigration.webp
+Content Type: image/webp
+
+Uri: https://www.ppc5g.com/images/whatsapp.png
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://www.ppc5g.com/index.php
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\index.php.html
+Content Type: text/html
+
+Uri: https://www.ppc5g.com/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.ppc5g.com/js/commonjs.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\js\commonjs.js
+Content Type: application/x-javascript
+
+Uri: https://www.ppc5g.com/js/grouploop-1.0.0.min.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\js\grouploop-1.0.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.ppc5g.com/js/javascript.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\js\javascript.js
+Content Type: application/x-javascript
+
+Uri: https://www.ppc5g.com/js/jquery.event.move.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\js\jquery.event.move.js
+Content Type: application/x-javascript
+
+Uri: https://www.ppc5g.com/js/jquery.serialscrolling.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\js\jquery.serialscrolling.js
+Content Type: application/x-javascript
+
+Uri: https://www.ppc5g.com/js/jquery.ttpanel.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\js\jquery.ttpanel.js
+Content Type: application/x-javascript
+
+Uri: https://www.ppc5g.com/js/main.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://www.ppc5g.com/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\js\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.ppc5g.com/js/webmain.js
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\js\webmain.js
+Content Type: application/x-javascript
+
+Uri: https://www.ppc5g.com/landing-page.php
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\landing-page.php.html
+Content Type: text/html
+
+Uri: https://www.ppc5g.com/legal.php
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\legal.php.html
+Content Type: text/html
+
+Uri: https://www.ppc5g.com/ppc-services.php
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\ppc-services.php.html
+Content Type: text/html
+
+Uri: https://www.ppc5g.com/privacy-policy.php
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\privacy-policy.php.html
+Content Type: text/html
+
+Uri: https://www.ppc5g.com/website-design.php
+File Name: C:\Downloaded Web Sites\www.ppc5g.com\website-design.php.html
+Content Type: text/html
+
